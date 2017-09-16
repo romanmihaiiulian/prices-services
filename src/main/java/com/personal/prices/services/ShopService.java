@@ -1,8 +1,6 @@
 package com.personal.prices.services;
 
-import com.personal.prices.model.Item;
 import com.personal.prices.model.Shop;
-import com.personal.prices.repository.ItemRepository;
 import com.personal.prices.repository.ShopRepository;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
