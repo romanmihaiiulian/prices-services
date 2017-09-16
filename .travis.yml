@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: "romanmihaiiulian" # the key of the org you chose at step #3
+    organization: "romanmihaiiulian-github" # the key of the org you chose at step #3
     token:
       secure: "bp/wzx8nVZFtfU6MNMhpSgTH4JTQeTQkE0mpsL47wH2Z6cuLJK5gVqj7QgjjZwPbA/uVQ5OXaBUY0ia4ev/MAZ/xQejJAua63haBefShGBU8ld7RRPK7TvPpqEO8Bl3WSq62QMdrur00K6QGzFPdbRNV0bM7PXU8GdhMJ1tHrWQHBEn9CVP7dCiJL5C0B7SnKK9BvypnIx1QdwlkLpz/5Iccq1lFihKbQGKfc3Vb9cKl8XkaXhlIWQNAj1lbwHVX8ZLXkmVrcxs1hX6+jxQ2hpUwvLVvTYl/YPcoxkAVX4bmJGT7X1ZQBLUA2qb1pNfJPetPpTNcqygJZSiCt5doTirsqmy8aaxPBJm5/q5iXU692Ce8c2fIP0DBr5qd2kWR9v+wdc3kC951qKXnGuVm3+6ARpdOPinabF6LbVwEZAyFoXZyBijMKmrd8L53U1TvqKX4cnbDQz0rvtVgPZhWa7lHe4GPEpjPxarezcpVuUhHrbBxp7MusaHsTvQ5oeOStlC+uBhjo394WMscpJ8MEli/XoJKV/WOiKX2AtS7c81Urfyjw8EvIZGD3eR31n0vhRzVzxOntm3JKpUdiZldXgH0Vrsrp7ICOSkzQ1+Ky/f2h8l6gM0Mgalh77sTZgUgJw7xX6vUPDuJZbE5GjrbWD3mw5pIL8w/jJZh7Beiv/M="
 
