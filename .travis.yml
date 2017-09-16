@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: "romanmihaiiulian-github"
+    organization: "romanmihaiiulian"
     token:
       secure: "sz6Se/GxDHbJAVXdRgGsgk8yT10aeoSDfz5j72fxnpQcdRMa14EAxMflEpkWVMmzaE5a6lBz8RrFQl/SmETIXlxl10p5GNGcHVfQx3Hgfnr+DR24mEXm3Ym9a387/QXfjXH2977Xs2ip2yl+Pc7gxhwv/MBzPpOGpbXXR1C3WJiqnahB7u/jsM/iyNLqHfqItyamjb25MxY/5dlfTc4IwhlJ/0siboIXVlK28LrivSsjTtZCSf8DzF5EMrZYzsoYp13lrI8rgeFkEC4TNqMTbMZ3Iv4wmx2E/3BBbXOM21sXMLXZAKZHsC2JtasQJ9R4LUXm36tmbdRP1UtGDqMLhh8DYka/wmc8osIKk6FWt1933fMD2EJbh5YyKKxd+ljxoJUeRcW084crE5jqTP7db13jBYmyeh3TIo3wDt+1sykjMkO8Bb20NrQ1tlkt6ctJOlxbrSHZqKVdOVlJWSSfJDvf7NAkr2bvjxBVf/Hzinx3grIOdfjGZKOf7R7jybXKa/VWnN2+aIANk/5XlARtbLRQv3BNvFVJhP4m/jAYpXaGu4WknPiKFGhY9AI/BBgFowoUo4Gm46LPjSlHA0WABuxnp1iI14nsimm+8tRbNQ1i4bSP0IPfl/QdSlUnvwtUtUYF1qhzBVNvv9WNCy2RbpnXM8jW+qzyLH9tw03jbYE="
 
