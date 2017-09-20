@@ -27,7 +27,7 @@ public class ShopRestController {
     }
 
     @PostMapping(consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    Mono<Shop> insert(@RequestBody Shop shop) {
+    Mono<Shop> save(@RequestBody Shop shop) {
         return shopService.save(shop);
     }
 

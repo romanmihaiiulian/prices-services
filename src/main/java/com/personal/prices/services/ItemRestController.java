@@ -27,7 +27,7 @@ public class ItemRestController {
     }
 
     @PostMapping(consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    Mono<Item> insert(@RequestBody Item item) {
+    Mono<Item> save(@RequestBody Item item) {
         return itemService.save(item);
     }
 
